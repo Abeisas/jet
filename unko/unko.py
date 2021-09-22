@@ -1,2 +1,2 @@
 def deru():
-    print('puripuri')
+    print('puripuri-test')
